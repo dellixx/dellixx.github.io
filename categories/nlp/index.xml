@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP on delli</title>
-    <link>https://dellixx.github.io/categories/nlp/</link>
+    <link>https://www.dellixx.github.io/categories/nlp/</link>
     <description>Recent content in NLP on delli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://www.dellixx.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boosting the Transformer with the BERT Supervision in Low-Resource Machine Translation</title>
-      <link>https://dellixx.github.io/publication/2022-boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</link>
+      <link>https://www.dellixx.github.io/publication/2022-boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://dellixx.github.io/publication/2022-boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</guid>
+      <guid>https://www.dellixx.github.io/publication/2022-boosting-the-transformer-with-the-bert-supervision-in-low-resource-machine-translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuatSE Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings</title>
-      <link>https://dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
+      <link>https://www.dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
+      <guid>https://www.dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition 🔥</title>
-      <link>https://dellixx.github.io/publication/2021-a-benchmark-dataset-and-case-study-for-chinese-medical-question-intent-classification/</link>
+      <link>https://www.dellixx.github.io/publication/2021-a-benchmark-dataset-and-case-study-for-chinese-medical-question-intent-classification/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://dellixx.github.io/publication/2021-a-benchmark-dataset-and-case-study-for-chinese-medical-question-intent-classification/</guid>
+      <guid>https://www.dellixx.github.io/publication/2021-a-benchmark-dataset-and-case-study-for-chinese-medical-question-intent-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incorporating Inner-word and Out-word Features for Mongolian Morphological Segmentation</title>
-      <link>https://dellixx.github.io/publication/2020-incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
+      <link>https://www.dellixx.github.io/publication/2020-incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://dellixx.github.io/publication/2020-incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
+      <guid>https://www.dellixx.github.io/publication/2020-incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Natural Scene Text Extraction Approach Based on Generative Adversarial Learning</title>
-      <link>https://dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
+      <link>https://www.dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
+      <guid>https://www.dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Knowledge Guided Mongolian Constituent Parsing</title>
-      <link>https://dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</link>
+      <link>https://www.dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
+      <guid>https://www.dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
       <description></description>
     </item>
     
