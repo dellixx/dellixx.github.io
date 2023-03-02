@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BIBM on delli</title>
-    <link>https://www.dellixx.github.io/categories/bibm/</link>
+    <link>https://dellixx.github.io/categories/bibm/</link>
     <description>Recent content in BIBM on delli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://www.dellixx.github.io/categories/bibm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/bibm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Well Apply Multimodal Mixup and Simple MLPs Backbone to Medical Visual Question Answering?</title>
-      <link>https://www.dellixx.github.io/publication/2022-how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</link>
+      <link>https://dellixx.github.io/publication/2022-how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2022-how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</guid>
+      <guid>https://dellixx.github.io/publication/2022-how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</guid>
       <description></description>
     </item>
     

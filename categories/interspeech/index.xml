@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interspeech on delli</title>
-    <link>https://www.dellixx.github.io/categories/interspeech/</link>
+    <link>https://dellixx.github.io/categories/interspeech/</link>
     <description>Recent content in Interspeech on delli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2020 10:45:00 +0000</lastBuildDate><atom:link href="https://www.dellixx.github.io/categories/interspeech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/interspeech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sub-band Knowledge Distillation Framework for Speech Enhancement</title>
-      <link>https://www.dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</link>
+      <link>https://dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</guid>
+      <guid>https://dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UNetGAN-A Robust Speech Enhancement Approach in Time Domain for Extremely Low Signal-to-noise Ratio Condition 🔥</title>
-      <link>https://www.dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</link>
+      <link>https://dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</guid>
+      <guid>https://dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</guid>
       <description></description>
     </item>
     

@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CCF-C on delli</title>
-    <link>https://www.dellixx.github.io/categories/ccf-c/</link>
+    <link>https://dellixx.github.io/categories/ccf-c/</link>
     <description>Recent content in CCF-C on delli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://www.dellixx.github.io/categories/ccf-c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/ccf-c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Transformer-based Medical Visual Question Answering Model</title>
-      <link>https://www.dellixx.github.io/publication/2022-a-transformer-based-medical-visual-question-answering-model/</link>
+      <link>https://dellixx.github.io/publication/2022-a-transformer-based-medical-visual-question-answering-model/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2022-a-transformer-based-medical-visual-question-answering-model/</guid>
+      <guid>https://dellixx.github.io/publication/2022-a-transformer-based-medical-visual-question-answering-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical Visual Question Answering via Targeted Choice Contrast and Multimodal Entity Matching</title>
-      <link>https://www.dellixx.github.io/publication/2022-medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
+      <link>https://dellixx.github.io/publication/2022-medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2022-medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
+      <guid>https://dellixx.github.io/publication/2022-medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuatSE Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings</title>
-      <link>https://www.dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
+      <link>https://dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</link>
       <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
+      <guid>https://dellixx.github.io/publication/2022-quatse-spherical-linear-interpolation-of-quaternion-for-knowledge-graph-embeddings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition</title>
-      <link>https://www.dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <link>https://dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <guid>https://dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MCDALNet Multi-scale Contextual Dual Attention Learning Network for Medical Image Segmentation</title>
-      <link>https://www.dellixx.github.io/publication/2021-mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</link>
+      <link>https://dellixx.github.io/publication/2021-mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</link>
       <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2021-mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</guid>
+      <guid>https://dellixx.github.io/publication/2021-mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sub-band Knowledge Distillation Framework for Speech Enhancement</title>
-      <link>https://www.dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</link>
+      <link>https://dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</link>
       <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</guid>
+      <guid>https://dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Natural Scene Text Extraction Approach Based on Generative Adversarial Learning</title>
-      <link>https://www.dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
+      <link>https://dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
+      <guid>https://dellixx.github.io/publication/2019-a-natural-scene-text-extraction-approach-based-on-generative-adversarial-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Preprocessor Based on Adversiarial Learning for Mongolian Historical Document OCR Condition</title>
-      <link>https://www.dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</link>
+      <link>https://dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</guid>
+      <guid>https://dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition</title>
-      <link>https://www.dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
+      <link>https://dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
+      <guid>https://dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning an Adversarial Network for Speech Enhancement Under Extremely Low Signal-to-Noise Ratio Condition</title>
-      <link>https://www.dellixx.github.io/publication/2019-learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</link>
+      <link>https://dellixx.github.io/publication/2019-learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2019-learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</guid>
+      <guid>https://dellixx.github.io/publication/2019-learning-an-adversarial-network-for-speech-enhancement-under-extremely-low-signal-to-noise-ratio-condition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Knowledge Guided Mongolian Constituent Parsing</title>
-      <link>https://www.dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</link>
+      <link>https://dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
+      <guid>https://dellixx.github.io/publication/2019-morphological-knowledge-guided-mongolian-constituent-parsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UNetGAN-A Robust Speech Enhancement Approach in Time Domain for Extremely Low Signal-to-noise Ratio Condition 🔥</title>
-      <link>https://www.dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</link>
+      <link>https://dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</link>
       <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
       
-      <guid>https://www.dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</guid>
+      <guid>https://dellixx.github.io/publication/2019-unetgan-a-robust-speech-enhancement-approach-in-time-domain-for-extremely-low-signal-to-noise-ratio-condition/</guid>
       <description></description>
     </item>
     
