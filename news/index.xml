@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>delli</title>
+    <link>https://dellixx.github.io/news/</link>
+    <description>Recent content on delli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Mar 2023 16:29:58 +0800</lastBuildDate><atom:link href="https://dellixx.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A</title>
+      <link>https://dellixx.github.io/news/a/</link>
+      <pubDate>Wed, 01 Mar 2023 16:29:58 +0800</pubDate>
+      
+      <guid>https://dellixx.github.io/news/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12 Favorite Problems: The key to classroom community</title>
+      <link>https://dellixx.github.io/news/12-favorite-problems-class-community/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/news/12-favorite-problems-class-community/</guid>
+      <description>What are you obsessed with?
+This question has the power to completely change the game in classroom community-building.
+Building community: why and first attempts   Community is more than just hot chocolate for a teacher&amp;rsquo;s heart—it has immense benefits for students:
+a = function for(i=0;i++)
+ Community building is vital to active student engagement in a course across all modalities. Research shows that when students feel that they belong to their academic community, that they matter to one another, and that they can find emotional, social, and cognitive support for one another, they are able to engage in dialogue and reflection more actively and take ownership and responsibility of their own learning.</description>
+    </item>
+    
+  </channel>
+</rss>

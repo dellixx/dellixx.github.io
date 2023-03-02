@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICDAR on delli</title>
+    <link>https://dellixx.github.io/categories/icdar/</link>
+    <description>Recent content in ICDAR on delli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Oct 2021 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/icdar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition</title>
+      <link>https://dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition</title>
+      <link>https://dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

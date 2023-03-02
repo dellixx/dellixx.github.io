@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 on delli</title>
+    <link>https://dellixx.github.io/categories/2020/</link>
+    <description>Recent content in 2020 on delli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Oct 2020 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A MULTI-SCALED RECEPTIVE FIELD LEARNING APPROACH FOR MEDICAL IMAGE SEGMENTATION</title>
+      <link>https://dellixx.github.io/publication/2020-a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN EDGE INFORMATION AND MASK SHRINKING BASED IMAGE INPAINTING APPROACH</title>
+      <link>https://dellixx.github.io/publication/2020-an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Inner-word and Out-word Features for Mongolian Morphological Segmentation</title>
+      <link>https://dellixx.github.io/publication/2020-incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-incorporating-inner-word-and-out-word-features-for-mongolian-morphological-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASKING AND INPAINTING A TWO-STAGE SPEECH ENHANCEMENT APPROACH FOR LOW SNR AND NON-STATIONARY NOISE 🔥</title>
+      <link>https://dellixx.github.io/publication/2020-masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNR-BASED TEACHERS-STUDENT TECHNIQUE FOR SPEECH ENHANCEMENT</title>
+      <link>https://dellixx.github.io/publication/2020-snr-based-teachers-student-technique-for-speech-enhancement/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-snr-based-teachers-student-technique-for-speech-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-band Knowledge Distillation Framework for Speech Enhancement</title>
+      <link>https://dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-sub-band-knowledge-distillation-framework-for-speech-enhancement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

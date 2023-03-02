@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV on delli</title>
+    <link>https://dellixx.github.io/categories/cv/</link>
+    <description>Recent content in CV on delli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Oct 2022 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Transformer-based Medical Visual Question Answering Model</title>
+      <link>https://dellixx.github.io/publication/2022-a-transformer-based-medical-visual-question-answering-model/</link>
+      <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2022-a-transformer-based-medical-visual-question-answering-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Well Apply Multimodal Mixup and Simple MLPs Backbone to Medical Visual Question Answering?</title>
+      <link>https://dellixx.github.io/publication/2022-how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</link>
+      <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2022-how-well-apply-multimodal-mixup-and-simple-mlps-backbone-to-medical-visual-question-answering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Visual Question Answering via Targeted Choice Contrast and Multimodal Entity Matching</title>
+      <link>https://dellixx.github.io/publication/2022-medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</link>
+      <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2022-medical-visual-question-answering-via-targeted-choice-contrast-and-multimodal-entity-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Script-Level Word Sample Augmentation for Few-shot Handwritten Text Recognition</title>
+      <link>https://dellixx.github.io/publication/2022-script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</link>
+      <pubDate>Sun, 30 Oct 2022 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2022-script-level-word-sample-augmentation-for-few-shot-handwritten-text-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Local Word Augment Approach for Mongolian Handwritten Script Recognition</title>
+      <link>https://dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</link>
+      <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2021-an-efficient-local-word-augment-approach-for-mongolian-handwritten-script-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCDALNet Multi-scale Contextual Dual Attention Learning Network for Medical Image Segmentation</title>
+      <link>https://dellixx.github.io/publication/2021-mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</link>
+      <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2021-mcdalnet-multi-scale-contextual-dual-attention-learning-network-for-medical-image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A MULTI-SCALED RECEPTIVE FIELD LEARNING APPROACH FOR MEDICAL IMAGE SEGMENTATION</title>
+      <link>https://dellixx.github.io/publication/2020-a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AN EDGE INFORMATION AND MASK SHRINKING BASED IMAGE INPAINTING APPROACH</title>
+      <link>https://dellixx.github.io/publication/2020-an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-an-edge-information-and-mask-shrinking-based-image-inpainting-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASKING AND INPAINTING A TWO-STAGE SPEECH ENHANCEMENT APPROACH FOR LOW SNR AND NON-STATIONARY NOISE 🔥</title>
+      <link>https://dellixx.github.io/publication/2020-masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An End-to-End Preprocessor Based on Adversiarial Learning for Mongolian Historical Document OCR Condition</title>
+      <link>https://dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition</title>
+      <link>https://dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2019-improving-text-image-resolution-using-a-deep-generative-adversarial-network-for-optical-character-recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

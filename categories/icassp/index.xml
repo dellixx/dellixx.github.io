@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICASSP on delli</title>
+    <link>https://dellixx.github.io/categories/icassp/</link>
+    <description>Recent content in ICASSP on delli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Oct 2021 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/icassp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FULLSUBNET A FULL-BAND AND SUB-BAND FUSION MODEL FOR REAL-TIME SINGLE-CHANNEL SPEECH ENHANCEMENT 🔥</title>
+      <link>https://dellixx.github.io/publication/2021-fullsubnet-a-full-band-and-sub-band-fusion-model-for-real-time-single-channel-speech-enhancement/</link>
+      <pubDate>Sat, 30 Oct 2021 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2021-fullsubnet-a-full-band-and-sub-band-fusion-model-for-real-time-single-channel-speech-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A MULTI-SCALED RECEPTIVE FIELD LEARNING APPROACH FOR MEDICAL IMAGE SEGMENTATION</title>
+      <link>https://dellixx.github.io/publication/2020-a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-a-multi-scaled-receptive-field-learning-approach-for-medical-image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASKING AND INPAINTING A TWO-STAGE SPEECH ENHANCEMENT APPROACH FOR LOW SNR AND NON-STATIONARY NOISE 🔥</title>
+      <link>https://dellixx.github.io/publication/2020-masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</link>
+      <pubDate>Fri, 30 Oct 2020 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2020-masking-and-inpainting-a-two-stage-speech-enhancement-approach-for-low-snr-and-non-stationary-noise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PRICAI on delli</title>
+    <link>https://dellixx.github.io/categories/pricai/</link>
+    <description>Recent content in PRICAI on delli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Oct 2019 10:45:00 +0000</lastBuildDate><atom:link href="https://dellixx.github.io/categories/pricai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An End-to-End Preprocessor Based on Adversiarial Learning for Mongolian Historical Document OCR Condition</title>
+      <link>https://dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</link>
+      <pubDate>Wed, 30 Oct 2019 10:45:00 +0000</pubDate>
+      
+      <guid>https://dellixx.github.io/publication/2019-an-end-to-end-preprocessor-based-on-adversiarial-learning-for-mongolian-historical-document-ocr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
