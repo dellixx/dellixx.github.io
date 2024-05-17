@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now a Ph.D. student of computer science in Inner Mongolia University [(内蒙古大学计算机学院)](https://ccs.imu.edu.cn/index.htm), advised by Assoc.Prof. [Xiangdong Su (苏向东)](https://www.imu-ai.com) and Prof. [Guanglai Gao (高光来)](https://ccs.imu.edu.cn/info/1152/3125.htm). My research interest includes **Temporal Knowledge Graph**, **Knowledge Graph**.
+Hi, I am now a Ph.D. student of computer science in Inner Mongolia University [(内蒙古大学计算机学院)](https://ccs.imu.edu.cn/index.htm), advised by Assoc.Prof. [Xiangdong Su (苏向东)](https://www.imu-ai.com) and Prof. [Guanglai Gao (高光来)](https://ccs.imu.edu.cn/info/1152/3125.htm). My research interest includes **Temporal Knowledge Graph**, **Knowledge Graph**.
 
-If you are also interested in knowledge graph, welcome to communicate with each other to learn and progress together 😊!
+If you are also interested in knowledge graph, welcome to communicate with each other to learn and progress together 🤗!
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024. 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by COLING 2024. 
 - *2023.05*: &nbsp;🎉🎉 Two paper is accepted by ACL 2023.
 - *2022.07*: &nbsp;🎉🎉 One paper is accepted by NLPCC 2022.
@@ -31,6 +32,24 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="purple-badge">ACL 2024 Findings</div><img src='images/duase.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://dellixx.github.io/) \\
+<!-- [Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://arxiv.org/pdf/2404.09155) \\ -->
+**Jiang Li**, Xiangdong Su, Fujun Zhang, Guanglai Gao
+
+[**Coming soon!**]
+
+<!-- [**Project**](https://arxiv.org/pdf/2404.09155) \| [![](https://img.shields.io/github/stars/dellixx/tkbc-lie?style=social&label=Code+Stars)](https://github.com/dellixx/tkbc-lie) -->
+</div>
+</div>
+
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint 2024</div><img src='images/lie.png' alt="sym" width="100%"></div></div>
@@ -105,7 +124,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 
 # 📖 Educations
 - *2022.06 - (now)*, Ph.D. Student, Inner Mongolia University
-- *2016.09 - 2020.06*, Undergraduate, Inner Mongolia University of Technology
+- *2016.09 - 2020.06*, 🎓 Undergraduate, Inner Mongolia University of Technology
 
 
 # 📚 Project
