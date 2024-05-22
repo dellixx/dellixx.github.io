@@ -130,3 +130,6 @@ Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archime
 
 # 📚 Project
 - Inner Mongolia Autonomous Region graduate research innovation project，2023 \| Project leader
+
+# 🌏 Access statistics
+- <a href="https://info.flagcounter.com/50lG"><img src="https://s11.flagcounter.com/mini/50lG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
