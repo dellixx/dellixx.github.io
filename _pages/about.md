@@ -34,17 +34,16 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="purple-badge">ACL 2024 Findings</div><img src='images/duase.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="red-badge">ACL 2024</div><img src='images/duase.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals
 
-<!-- [Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://dellixx.github.io/) \\ -->
-<!-- [Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://arxiv.org/pdf/2404.09155) \\ -->
+[Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://aclanthology.org/2024.findings-acl.118.pdf) \\
+
 **Jiang Li**, Xiangdong Su, Fujun Zhang, Guanglai Gao
 
-[**Coming soon!**]
+<!-- [**Coming soon!**] -->
 
-<!-- [**Project**](https://arxiv.org/pdf/2404.09155) \| [![](https://img.shields.io/github/stars/dellixx/tkbc-lie?style=social&label=Code+Stars)](https://github.com/dellixx/tkbc-lie) -->
+[**Project**](https://aclanthology.org/2024.findings-acl.118.pdf) \| [![](https://img.shields.io/github/stars/dellixx/DuASE?style=social&label=Code+Stars)](https://github.com/dellixx/DuASE)
 </div>
 </div>
 
