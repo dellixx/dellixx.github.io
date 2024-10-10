@@ -72,7 +72,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 [TransERR: Translation-based Knowledge Graph Embedding via Efficient Relation Rotation](https://arxiv.org/pdf/2306.14580) \\
 **Jiang Li**, Xiangdong Su, Fujun Zhang, Guanglai Gao
 
-[**Project**](https://arxiv.org/pdf/2306.14580) \| [![](https://img.shields.io/github/stars/dellixx/TransERR?style=social&label=Code+Stars)](https://github.com/dellixx/TransERR) \| (CCF-B)
+[**Project**](https://arxiv.org/pdf/2306.14580) \| [![](https://img.shields.io/github/stars/dellixx/TransERR?style=social&label=Code+Stars)](https://github.com/dellixx/TransERR) \|
 </div>
 </div>
 
@@ -82,7 +82,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 [TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline](https://aclanthology.org/2023.acl-long.862.pdf) \\
 **Jiang Li**, Xiangdong Su, Guanglai Gao
 
-[**Project**](https://aclanthology.org/2023.acl-long.862.pdf) \| [![](https://img.shields.io/github/stars/dellixx/TeAST?style=social&label=Code+Stars)](https://github.com/dellixx/TeAST) \| (CCF-A)
+[**Project**](https://aclanthology.org/2023.acl-long.862.pdf) \| [![](https://img.shields.io/github/stars/dellixx/TeAST?style=social&label=Code+Stars)](https://github.com/dellixx/TeAST) \|
 </div>
 </div>
 
@@ -93,7 +93,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 [How well apply simple MLP to incomplete utterance rewriting?](https://aclanthology.org/2023.acl-short.134.pdf) \\
 **Jiang Li**, Xiangdong Su, Xinlan Ma, Guanglai Gao
 
-[**Project**](https://aclanthology.org/2023.acl-short.134.pdf) \| [![](https://img.shields.io/github/stars/dellixx/MIUR?style=social&label=Code+Stars)](https://github.com/dellixx/MIUR) \| (CCF-A)
+[**Project**](https://aclanthology.org/2023.acl-short.134.pdf) \| [![](https://img.shields.io/github/stars/dellixx/MIUR?style=social&label=Code+Stars)](https://github.com/dellixx/MIUR) \|
 </div>
 </div>
 
@@ -106,7 +106,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 [QuatSE: Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings](https://drive.google.com/file/d/1f2xwNIG-sQ7rO-XMx-tsy3o6S3AkEOoW/view) \\
 **Jiang Li**, Xiangdong Su, Xinlan Ma, Guanglai Gao
 
-[**Project**](https://drive.google.com/file/d/1f2xwNIG-sQ7rO-XMx-tsy3o6S3AkEOoW/view) \| (Oral) \| (CCF-C)
+[**Project**](https://drive.google.com/file/d/1f2xwNIG-sQ7rO-XMx-tsy3o6S3AkEOoW/view) \| (Oral) \|
 </div>
 </div>
 
