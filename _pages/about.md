@@ -119,7 +119,8 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 
 
 # 🎖️ Awards
-- *2023.10* Scholarship of Inner Mongolia autonomous region (内蒙古自治区奖学金). 
+- *2023.10* 内蒙古自治区奖学金. 
+- *2024.10* 国家奖学金. 
 
 
 # 📖 Educations
@@ -128,7 +129,9 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 
 
 # 📚 Project
-- Inner Mongolia Autonomous Region graduate research innovation project，2023 \| Project leader
+<!-- - Inner Mongolia Autonomous Region graduate research innovation project，2023 \| Project leader -->
+
+- 2024年度中国科协青年人才托举工程博士生专项计划 \| 中国中文信息学会
 
 # 🌏 Access statistics
 - <a href="https://info.flagcounter.com/50lG"><img src="https://s11.flagcounter.com/mini/50lG/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
