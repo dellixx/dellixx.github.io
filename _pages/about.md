@@ -53,7 +53,8 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/duase.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://aclanthology.org/2024.findings-acl.118.pdf) \\ **Jiang Li**, Xiangdong Su, Fujun Zhang, Guanglai Gao
+[Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://aclanthology.org/2024.findings-acl.118.pdf) \\
+**Jiang Li**, Xiangdong Su, Fujun Zhang, Guanglai Gao
 
 <!-- [**Coming soon!**] -->
 
