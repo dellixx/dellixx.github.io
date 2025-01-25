@@ -24,9 +24,10 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by NAACL 2025. 
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2024. 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by COLING 2024. 
-- *2023.05*: &nbsp;🎉🎉 Two paper is accepted by ACL 2023.
+- *2023.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2023.
 - *2022.07*: &nbsp;🎉🎉 One paper is accepted by NLPCC 2022.
 
 
@@ -34,12 +35,25 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="red-badge">ACL 2024</div><img src='images/duase.jpg' alt="sym" width="100%"></div></div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/lie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://aclanthology.org/2024.findings-acl.118.pdf) \\
+[Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding](https://arxiv.org/pdf/2404.09155) \\
+**Jiang Li**, Xiangdong Su, Guanglai Gao
 
-**Jiang Li**, Xiangdong Su, Fujun Zhang, Guanglai Gao
+[**Project**](https://github.com/dellixx/tkbc-lie) \| [![](https://img.shields.io/github/stars/dellixx/tkbc-lie?style=social&label=Code+Stars)](https://github.com/dellixx/tkbc-lie)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/duase.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Low-dimensional Multi-domain Knowledge Graph Embedding via Dual Archimedean Spirals](https://aclanthology.org/2024.findings-acl.118.pdf) \\ **Jiang Li**, Xiangdong Su, Fujun Zhang, Guanglai Gao
 
 <!-- [**Coming soon!**] -->
 
@@ -52,21 +66,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint 2024</div><img src='images/lie.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding](https://arxiv.org/pdf/2404.09155) \\
-**Jiang Li**, Xiangdong Su, Yeyun Gong, Guanglai Gao
-
-[**Project**](https://github.com/dellixx/tkbc-lie) \| [![](https://img.shields.io/github/stars/dellixx/tkbc-lie?style=social&label=Code+Stars)](https://github.com/dellixx/tkbc-lie)
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="orange-badge">COLING 2024</div><img src='images/transerr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/transerr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TransERR: Translation-based Knowledge Graph Embedding via Efficient Relation Rotation](https://arxiv.org/pdf/2306.14580) \\
@@ -76,7 +76,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="red-badge">ACL 2023</div><img src='images/teast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/teast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline](https://aclanthology.org/2023.acl-long.862.pdf) \\
@@ -87,7 +87,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="red-badge">ACL 2023</div><img src='images/miur.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/miur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [How well apply simple MLP to incomplete utterance rewriting?](https://aclanthology.org/2023.acl-short.134.pdf) \\
@@ -100,7 +100,7 @@ If you are also interested in knowledge graph, welcome to communicate with each 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="green-badge">NLPCC 2022</div><img src='images/quatse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2022</div><img src='images/quatse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [QuatSE: Spherical Linear Interpolation of Quaternion for Knowledge Graph Embeddings](https://drive.google.com/file/d/1f2xwNIG-sQ7rO-XMx-tsy3o6S3AkEOoW/view) \\
